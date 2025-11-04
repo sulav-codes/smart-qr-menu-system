@@ -157,7 +157,7 @@ Set up your test eSewa merchant credentials in the `.env` file.
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by **Sulav and Suhit**
+Made with ❤️ by **Sulav**
 
 ---
 
